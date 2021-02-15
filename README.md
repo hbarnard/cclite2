@@ -1,7 +1,11 @@
 Cclite2 February 2021
 
+*Development code, package(s) are on sourceforge at https://sourceforge.net/projects/cclite2/ this is just a placeholder to redirect folks.*
+
+
 This the second version of Cclite, based on Mojolicious, Postgresql and a native RESTful interface. 
 It's designed as an engine rather than a web application, but an html interface is still provided.
+
 
 Currently testing on Linux Mint, therefore Debian and Ubuntu *should* be OK. It will *not work* as a Windows native now
 as Cclite used to (no apologies), it'll *probably* work with `cygwin`, WSL etc. 
